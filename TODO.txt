@@ -1,0 +1,21 @@
+Use cases for facial recognition
+
+==============
+Photo Updates:
+==============
+---- training -------
+create a folder of coded photos per school
+train the NN and store the encoded facial ids on remote server
+
+----- coding --------
+run the face_detect algo on local folders
+detect faces and rename photos with accurate code/name 
+update the NN network with the recent coded photos
+
+==============
+Recruitment:
+==============
+create folders of recruits per school
+set the begin_code_val --> which code to start with?
+rename all photos sequentially from begin_code_val
+train the NN and store the encoded facial ids on remote server
